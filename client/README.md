@@ -205,12 +205,10 @@ Before starting, install:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/memory-keeper-ai.git
+git clone https://github.com/nadunjayaweera/memory-keeper-ai.git
 
 cd memory-keeper-ai
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### Step 2 — Install Ollama and Gemma
 
